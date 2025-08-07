@@ -1,0 +1,605 @@
+Primary Responsibilities:
+
+Design and implement cloud-based solutions across multiple cloud platforms (Azure, AWS, Google Cloud) using industry best practices
+Develop and maintain cloud architecture standards and guidelines
+Collaborate with IT teams and business partners to understand business requirements and translate them into cloud solutions
+Ensure the security, scalability, and reliability of cloud infrastructure
+Monitor and optimize cloud performance and costs
+Conduct regular cloud security assessments and audits
+Troubleshoot and resolve cloud solution operational issues
+Provide technical leadership and guidance to the cloud support team
+Stay up-to-date with the latest cloud technologies and trends
+Develop disaster recovery and business continuity plans for cloud infrastructure
+Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+Required Qualifications:
+
+Bachelors degree in Computer Science, Information Technology, or a related field
+9+ years of experience in cloud architecture and cloud services
+Experience with cloud security, networking, and storage
+Experience identifying and remediating security vulnerabilities in cloud infrastructure
+Solid knowledge of cloud platforms such as AWS, Azure, or Google Cloud
+Proficiency in scripting and automation (Python, PowerShell, Bash, etc.)
+Proficiency in infrastructure as code (IaC) tools such as Ansible, Terraform, or CloudFormation
+Proven ability to manage multiple priorities and projects
+Proven excellent problem-solving and analytical skills
+Solid communication and collaboration skills
+Preferred Qualifications:
+
+Certifications such as AWS Certified Solutions Architect, Microsoft Certified: Azure Solutions Architect, or Google Cloud Professional Cloud Architect
+Experience with cloud and data center observability tools (Splunk, Application Insights, Azure Monitor, CloudWatch, etc.)
+Experience with Agile project management methodologies
+Experience with containerization and orchestration tools such as Docker and Kubernetes
+Experience with traditional data center and enterprise technologies
+Understanding of multi-cloud and hybrid environments
+Knowledge of FinOps principles for cloud cost optimization
+Knowledge of DevOps and DevSecOps practices and tools (GitHub Actions, etc.)
+
+
+
+==========================
+
+KeySkills Required:
+Azure Cloud Architecture : Expertise in designing and implementing Azure cloud infrastructure, with a focus on high availability, scalability, and security.
+Terraform Infrastructure Automation : Advanced knowledge of Terraform for Azure and Azure Bicep to define and manage infrastructure in code.
+Kubernetes (AKS) : Expertise in designing and managing Azure Kubernetes Service (AKS) clusters with advanced networking and hybrid/cloud connectivity.
+Networking : In-depth understanding of Azure networking features, including VNET Peering , Private Link , ExpressRoute , Application Gateway , and WAF .
+Security : Proven experience designing secure cloud environments with Zero Trust Architecture , Azure Security Center , Azure Key Vault , and other security features.
+CI/CD : Proficiency in implementing CI/CD pipelines using Azure DevOps , GitHub Actions , or Jenkins , with a focus on infrastructure automation.
+Cloud Cost Management : Experience with Azure Cost Management , cost optimization strategies, and FinOps .
+Scripting Automation : Proficiency in scripting languages such as Bash , PowerShell , or Python to automate tasks and configurations.
+Multi-Cloud Integration : Experience working in multi-cloud environments, integrating services from both Azure and AWS as part of hybrid cloud architectures.
+Cloud Monitoring Troubleshooting : Familiarity with tools like Azure Monitor , Prometheus , Grafana , and Log Analytics for monitoring, troubleshooting, and performance tuning.
+Cost Optimization (FinOps): Strong knowledge of Azure Cost Management and cloud financial governance.
+Qualifications:
+
+================================
+
+
+responsible for the following tasks:
+
+Designing and leading the architectural vision for Continentals Azure cloud landing zone, establishing enterprise-wide guardrails, principles, and patterns that align with Microsofts recommended practices and Azure roadmap
+Driving strategic cloud platform enhancements in security, compliance, connectivity, and governance while providing technical oversight of the entire Azure landing zone infrastructure
+Architecting and enforcing cloud security controls across the enterprise, including automated compliance monitoring, vulnerability remediation processes, and integration with existing identity management systems
+Overseeing the development and implementation of Infrastructure as Code (IaC) solutions for automated provisioning, configuration, and management of Azure cloud landing zone
+Collaborating with internal stakeholders to provide secure, compliant access to Azure IaaS and PaaS offerings
+Troubleshooting platform issues and improving service documentation
+Role: DevOps Consultant / Architect
+
+=====================================
+
+ey Responsibilities:
+
+• Infrastructure Automation & Management: Design, implement, and maintain scalable infrastructure solutions, leveraging cloud platforms like AWS, Azure, or GCP.
+o Automate infrastructure provisioning using Infrastructure as Code (IaC) tools such as Terraform, Ansible, or CloudFormation.
+o Manage configuration and deployment of containerization tools such as Docker and orchestration tools like Kubernetes.
+• Continuous Integration/Continuous Deployment (CI/CD):
+o Lead the design and management of CI/CD pipelines to ensure efficient, reliable, and scalable software delivery.
+o Collaborate with development and operations teams to improve automation, reduce release cycle times, and implement best practices.
+o Ensure the smooth integration of automated testing within CI/CD pipelines for quality assurance.
+• Monitoring & Performance Optimization:
+o Develop and implement robust monitoring, logging, and alerting systems to ensure high availability and performance.
+o Monitor infrastructure and application performance using tools like Prometheus, Grafana, or Datadog.
+o Analyze performance bottlenecks and work on optimizing system performance for scalability and reliability.
+• Security & Compliance:
+o Implement security best practices in infrastructure management and automation, ensuring compliance with industry standards (e.g., SOC 2, ISO 27001).
+o Collaborate with security teams to integrate security testing and compliance checks into the CI/CD pipelines.
+o Manage access controls, secrets management, and vulnerability scans as part of security and compliance measures.
+• Collaboration & Leadership:
+o Serve as a technical lead and subject matter expert on DevOps practices, mentoring junior team members and collaborating across teams.
+o Work closely with development, operations, and security teams to establish a culture of DevOps and continuous improvement.
+o Provide input into project timelines, resource allocation, and risk management.
+• Troubleshooting & Incident Management:
+o Lead troubleshooting efforts during incidents related to software delivery, infrastructure, or application performance.
+o Participate in on-call rotations, ensuring swift and effective resolution of critical issues and incidents.
+o Conduct post-mortems and provide actionable insights to prevent future incidents.
+
+
+Required Skills & Qualifications:
+
+• Bachelor’s degree in Computer Science, Engineering, or related field.
+• 5+ years of experience in DevOps, infrastructure automation, or related roles.
+• Proficiency in cloud platforms (AWS, Azure, GCP) and IaC tools (Terraform, Ansible, CloudFormation).
+• Experience with containerization (Docker) and orchestration tools (Kubernetes).
+• Strong experience in automating CI/CD pipelines using tools like Jenkins, GitLab CI, or CircleCI.
+• Solid understanding of monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack, Datadog).
+• Excellent scripting skills in languages such as Python, Bash, or PowerShell.
+• Familiarity with security best practices in infrastructure and software delivery.
+• Strong problem-solving and communication skills.
+
+===========================================
+
+n this role, you will:
+
+Hands on knowledge on any one of the of AWS / GCP / Azure / 
+Hands on experience on Docker, Kubernetes. Terraform will be an added advantage 
+Ensure the reliability, availability, and performance of the infrastructure platform.
+Collaborate in diagnosing and resolving infrastructure and application issues.
+Support the deployment, configuration, and maintenance of Kubernetes platform.
+Troubleshoot incidents, perform root cause analysis and implement reliability improvements.
+Designing cloud architecture, selecting appropriate cloud services, configuring virtual machines, managing cloud security, optimizing cloud costs.
+Implementing CI/CD pipelines on cloud platforms like AWS, Azure/ GCP/ 
+Writing automation scripts to manage infrastructure provisioning and configuration.
+Document code, processes, and solutions, and upskill yourself on sharing knowledge through presentations, workshops, or training sessions with other team members.
+Collaborating with development teams to integrate code changes seamlessly.
+Implementing cloud security measures to protect data and applications.
+Ensuring security best practices are followed in the cloud environment.
+Engage in research and innovation to explore how cutting-edge AI techniques can be applied to the banking domain..
+
+
+=========================================
+
+ey Responsibilities
+
+Architect and implement enterprise-grade AWS cloud solutions for Qualcomm’s software platforms.
+Design and implement CI/CD pipelines using Jenkins, GitHub Actions, and Terraform to enable rapid and reliable software delivery.
+Develop reusable Terraform modules and automation scripts to support scalable infrastructure provisioning.
+Drive observability initiatives using Prometheus, Grafana, Fluentd, OpenTelemetry, and Splunk to ensure system reliability and performance.
+Collaborate with software development teams to embed DevOps practices into the SDLC and ensure seamless deployment and operations.
+Provide mentorship and technical leadership to junior engineers and cross-functional teams.
+Manage hybrid environments, including on-prem infrastructure and Kubernetes workloads supporting both Linux and Windows.
+Lead incident response, root cause analysis, and continuous improvement of SLIs for mission-critical systems.
+Drive toil reduction and automation using scripting or programming languages such as PowerShell, Bash, Python, or Go.
+Independently drive and implement DevOps/cloud initiatives in collaboration with key stakeholders.
+Understand software development designs and compilation/deployment flows for .NET, Angular, and Java-based applications to align infrastructure and CI/CD strategies with application architecture.
+
+
+Required Qualifications
+
+10+ years of experience in IT or software development, with at least 5 years in cloud architecture and DevOps roles.
+Strong foundational knowledge of infrastructure components such as networking, servers, operating systems, DNS, Active Directory, and LDAP.
+Deep expertise in AWS services including EKS, RDS, MSK, CloudFront, S3, and OpenSearch.
+Hands-on experience with Kubernetes, Docker, containerd, and microservices orchestration.
+Proficiency in Infrastructure as Code using Terraform and configuration management tools like Ansible and Chef.
+Experience with observability tools and telemetry pipelines (Grafana, Prometheus, Fluentd, OpenTelemetry, Splunk).
+Experience with agent-based monitoring tools such as SCOM and Datadog.
+Solid scripting skills in Python, Bash, and PowerShell.
+Familiarity with enterprise-grade web services (IIS, Apache, Nginx) and load balancing solutions.
+Excellent communication and leadership skills with experience mentoring and collaborating across teams.
+
+============================================
+
+bout You
+
+10+ years of experience in Hybrid Cloud Engineering, including 5+ years in a leadership role.
+Skilled in datacenter management, Linux and Windows operating systems, microservices architectures, and container orchestration platforms.
+Design and architect complex infrastructure solutions encompassing on-premises, cloud (AWS), and hybrid environments.
+Provide technical leadership and guidance in the implementation and maintenance of Linux and Windows Server environments.
+Architect and manage Citrix NetScaler for load balancing, traffic management, and security.
+Design and implement scalable and high-performing Virtual Desktop Infrastructure (VDI) solutions.
+Proficient in DevOps, CI/CD, and Infrastructure as Code, utilizing tools such as Terraform, CloudFormation, Ansible, Python, and PowerShell.
+Demonstrated ability to lead technical teams, drive cloud best practices, and implement modern technology solutions.
+Extensive experience with core AWS services (EC2, VPC, IAM, S3, RDS) and cost optimization strategies.
+In-depth understanding of cloud governance, AWS security controls, and network boundary controls.
+Proven ability to collaborate effectively within a high-trust and innovative environment.
+
+Additional Skills And Qualifications
+
+Strong networking and security skills.
+Strong Operating Systems experience in Windows Server and/or Linux
+Extensive problem-solving and troubleshooting skills.
+Experience with Risk and Demand management.
+Excellent verbal and written communication skills.
+Ability to multitask in a fast-paced environment.
+Technology certifications are a plus.
+
+
+======================================================================================================
+
+nsure timely deployment of new tenants and system upgrades in alignment with the software release schedule, ensuring all prerequisites are identified and requirements are gathered in advance. 
+Review release notes to assess changes, conduct local validations, and mitigate potential deployment risks before rollout to production environments. 
+Maintain accurate documentation and records of all configuration changes, adhering to change management and compliance standards. 
+Proactively identify, report, and track defects or anomalies through incident management processes in collaboration with engineering and product teams. 
+Manage Azure cloud infrastructure, including access control, certificate lifecycle, and policy enforcement to ensure secure and compliant operations. 
+Deploy and optimize Azure alerting mechanisms to reduce noise, eliminate false positives, and deliver actionable insights. 
+Conduct regular audits to identify and decommission unused services/resources, and drive cost-optimization strategies to meet cloud budget targets. 
+Analyze alert trends to recommend performance improvements, including right-sizing or scaling resources using cost-effective solutions. 
+Lead root cause analysis (RCA) and Serious Incident Reviews after service disruptions, ensuring lessons learned are applied to prevent future incidents. 
+Forecast cloud costs based on current usage and anticipated growth, providing strategic insights to stay within budget while supporting scalability. 
+Have you got what it takes?
+
+8–12 years of experience in cloud Operations, Microsoft Azure Infrastructure. 
+Strong hands-on experience with Azure services, including monitoring, deployments, access & certificate management. 
+Proficiency in scripting using PowerShell, Bison, and LinqPad for automation and deployments. 
+Experience managing Azure Windows Server environments and administering Azure SQL databases. 
+Experience in configuring Application Monitoring and Dashboards (e.g., Grafana, Kibana). 
+Experience working in an ITIL environment (e.g., Incident Management, Change Management). 
+Cost management experience, including cloud budgeting, forecasting, and optimizing Azure spend. 
+Understanding of Azure DevOps for CI/CD pipelines and automated deployment processes. 
+Strong communication and stakeholder collaboration skills across Cloud Services, Product, Engineering, and Professional Services. 
+Fluent in written and spoken English with the ability to document technical issues and resolutions. 
+You will have an advantage if you also have:
+
+Microsoft Certified: 
+Azure Administrator Associate (AZ-104) 
+Azure Solutions Architect Expert (AZ-305) 
+Azure Security Engineer Associate (AZ-500) 
+FinOps Practitioner (Nice to have) 
+
+
+=======================================================================================
+
+Job description
+Provides technical expertise, to include addressing and resolving complex technical issues.
+Demonstrable experience assessing application workloads and technology landscape for Cloud suitability, develop case and Cloud adoption roadmap
+Expertise on data ingestion, data loading, Data Lake, bulk processing, transformation using Azure services and migrating on-premises services to various Azure environments.
+Good experience of a range services from the Microsoft Azure Cloud Platform including Infrastructure and Security related services such as Azure AD, IaaS, Containers, Storage, Networking and Azure Security.
+Good experience of enterprise solution shaping and Microsoft Azure Cloud architecture development including excellent documentation skills.
+Good understanding of Azure and AWS cloud service offering covering Compute, Storage, Network, WebApp, Functions, Gateway, Clustering, Key Vault, AD.
+Design and Develop high performance, scalable and secure cloud native applications on Microsoft Azure along with Azure best practices/recommendations.
+Design, implement and improve possible automations for cloud environments using native or 3rd party tools like Terraform, Salt, Chef, puppet, Databricks, etc.
+Creating business cases for transformation and modernization, including analysis of both total cost of ownership and potential cost and revenue impacts of the transformation
+Advise and engage with the customer executives on their Azure and AWS cloud strategy roadmap, improvements, alignment by bringing in industry best practice/trends and work on further improvements with required business case analysis and required presentations
+Providing Microsoft Azure architecture collaboration with other technical teams
+Documentation of solutions (e.g. architecture, configuration and setup).
+Working within a project management/agile delivery methodology in a leading role as part of a wider team.
+Provide effective knowledge transfer and upskilling to relevant customer personnel to ensure an appropriate level of future self-sufficiency.
+Assist in transition of projects to Enterprise Services teams.
+Skills Required:
+
+Strong knowledge of Cloud security standards and principles including Identity and Access management in Azure.
+essential tohave strong, in-depth and demonstrable hands-on experience with the following technologies:
+Microsoft Azure and its relevant build, deployment, automation, networking and security technologies in cloud and hybrid environments.
+Azure stack hub , Azure stack HCI/Hyper-V clusters.
+Microsoft Azure IaaS , Platform As A Service ( PaaS ) products such as Azure SQL, AppServices, Logic Apps, Functions and other Serverless services
+Understanding of Microsoft Identity and Access Management products such including Azure AD or AD B2C
+Microsoft Azure Operational and Monitoring tools, including Azure Monitor, App Insights and Log Analytics
+Microsoft Windows server, System Centr, Hyper-V and storage spaces
+Knowledge of PowerShell, Git, ARM templates and deployment automation.
+Hands-on experience on Azure and AWS Cloud native automation framework to perform automation along with experience on Python, Azure services like Databricks, Data factory, Azure functions, Streamsets etc.
+Hands-on experience with IAC (Infrastructure as Code), Containers, Kubernetes (AKS), Ansible, Terraform, Docker, Linux Sys Admin (RHEL/Ubuntu/Alpine), Jenkins, building CI/CD pipelines in Azure Devops.
+Ability to define and design the technical architecture with best suited Azure components ensuring seamless end-end workflow from Data source to Power BI/Portal/Dashboards/UI.
+Skills Good to Have:
+
+Experience in building big data solutions using Azure and AWS services like analysis services, DevOps / Databases like SQL server, CosmosDB, Dynamo DB, Mongo DB and web service integration
+Possession of either the Developing Microsoft Azure Solutions and Architecting Microsoft Azure certifications.
+
+=======================================================================================
+
+PositionTech Lead API Platform Team (Azure, Terraform, Kubernetes)
+Overview:
+We are seeking a highly skilled Tech Lead to spearhead our API Platform Team. This role demands a profound expertise in Azure services and advanced skills in Terraform and Kubernetes.
+Key Responsibilities and :
+Proven experience as a Tech Lead or Senior role in Azure, Kubernetes and Terraform.
+Extensive Expert-level knowledge and experience with Azure services such as AKS, APIM, Application Gateway, Front Door, Load Balancers, Azure SQL, Event Hub, Application Insights, ACR, Key Vault, VNet, Prometheous, Grafana, Storage Account, Monitoring, Notification Hub, VMs, DNS and more.
+Extensive Expert-level knowledge and hands-on experience in design and implement complex Terraform modules for Azure and Kubernetes environments, incorporating various providers such as azurerm, azapi, kubernetes, and helm.
+Extensive Expert-level knowledge and hands-on experience in deploy and manage Kubernetes clusters (AKS) with a deep understanding of Helm chart writing, Helm deployments, and AKS addons, Application Troubleshooting, monitoring with Prometheus and Grafana, GitOps and more.
+Lead application troubleshooting, performance tuning, and ensure high availability and resilience of APIs deployed in AKS and exposed internally and externally through APIM.
+Drive GitOps, APIOps practices for continuous integration and deployment strategies.
+Strong analytical and problem-solving skills with a keen attention to detail.
+Excellent leadership skills and ability to take ownership to deliver platform requirements in a faster pace.
+Qualifications:
+Bachelors or masters degree in Computer Science, Engineering, or a related field.
+Certifications in Azure, Kubernetes and Terraform are highly preferred.
+Role: Site Reliability Engineer
+
+
+======================================================================================
+
+
+Job description
+
+Key responsibilities
+
+
+Part of a team.
+
+Working closely with the Network, IT Security and Compliance team as well as the Cloud Architect to build and maintain the Azure cloud environments.
+Where required working closely with the development teams, Operations, Security and Architects to build and maintain the Application deployment pipelines and to ensure all solutions are Secure by Design and Secure in Practice.
+Create and maintain the documentation for knowledge sharing and training
+Able to act as a master trouble shooter and SME in configuration management
+Support the DevOps and Cloud adoption for our application teams and review current and proposed architecture and design deliverables
+Work with business stakeholders to identify strategic cloud adoption requirements
+Executes POCs and feasibility studies to validate next-gen product concepts and technologies leveraging results to guide business and technology decisions.
+Work closely with IT Security, Compliance, and Risk Teams to ensure all solutions are Secure by Design and Secure in Practice.
+Work with Scrum masters and product owners and other functional teams to translate the roadmap into releases
+Keep abreast of and gain expertise in the evolving technology and understand how new technologies could be applied to our Cloud estate
+
+
+Key Skills/Knowledge:
+
+
+Strong technical skills in Building and Maintaining Azure Cloud Infrastructure.
+Must be technically Hands-on and has track record of building/provisioning large and complex Azure Cloud environments
+Good understanding and usage of Azure Foundations and Scaffolding
+Azure IaaS, PaaS and SaaS Connectivity
+Azure Networking (Express Route, Virtual Networks, ASG / NSG, Azure Firewall)
+Azure Active Directory, Identity Management, RBAC, AAD Connect
+Azure SQL - PaaS Databases and Managed Instance
+Azure Virtual Machines, Storage provisioning and configurations
+Azure BLOB, Data Factory and PaaS Storage provisioning
+Windows Server 2012 / 2016
+Linux VM in Azure
+DNS, UDR, Traffic Manager setup
+Azure Automation with PowerShell and ARM Templates, Preferably Terraform or Ansible.
+Technical skills in Devops and CI/CD
+
+Experience required:
+
+
+======================================================================================
+
+
+
+Job description
+
+Responsible for migrating workloads from on-premise to public cloud
+Responsible for modernizing legacy or existing applications and making cloud ready
+Responsible for implanting deployment pipelines for cloud native applications
+Responsible for automating the infrastructure provisioning on cloud
+Responsible for design, implementation and uptime of highly scalable application infrastructure running on public cloud
+Responsible for build out lifecycle processes to mitigate risk and ensure platforms remain current, in accordance with industry standard methodologies
+Accessing on premise workloads for cloud suitability
+Responsible for strategizing applications and database for migration to cloud
+Should be able to build, configure and migrate servers on Microsoft and Non-Microsoft platform
+Should be able to configure Azure Stack Hub in standalone/ HA mode 3 should be able to create complex PowerShell scripts
+Integrating on-premises Active Directory and Azure Active Directory for Azure Stack Hub
+Experience of taking back-up for Azure Stack Hub
+Experience in creating migration strategy for migrating the application to Azure Stack Hub
+Experience in securing the Azure Stack Hub implementation by using firewalls and other third-party tools
+Understanding of different solutions available for HA of Azure Stack Hub
+Understanding of Azure Arc to monitor VMs deployed on Azure Stack Hub
+Automate and deploy Azure landing zone and services
+Experience in infrastructure as code tool like Cloud Formation, Terraform or ARM Templates
+Good understanding of networking and core Internet protocols such as TCP/IP, DNS, SMTP, HTTP(S), SSH/RDP and routing in distributed networks.
+Experience with application modernization and cloud migrations
+Experience with Azure cloud providers is a must
+Experience in migration on-premise application and database workloads to AWS/Azure
+Experience in leveraging cloud native or 3rd party migration services (AWS DMS, Azure DMS, Cloud Endure)
+Should be comfortable working in linux/Unix and/or Windows administration and scripting (Bash/Perl/Python/Powershell)
+Experience with DevOps tools for source code management CI/CD, configuration management
+Containerizing applications and orchestrating on Kubernetes/GKE/AKS/EKS
+Excellent communication
+Excellent troubleshooting and problem solving skills
+Experience in continuous Integration/Deployment - DevOps mindset
+Azure Architect certificate will be an added advantage
+
+
+===================================================================================
+
+Job description
+Provides technical expertise, to include addressing and resolving complex technical issues.
+Demonstrable experience assessing application workloads and technology landscape for Cloud suitability, develop case and Cloud adoption roadmap
+Expertise on data ingestion, data loading, Data Lake, bulk processing, transformation using Azure services and migrating on-premises services to various Azure environments.
+Good experience of a range services from the Microsoft Azure Cloud Platform including Infrastructure and Security related services such as Azure AD, IaaS, Containers, Storage, Networking and Azure Security.
+Good experience of enterprise solution shaping and Microsoft Azure Cloud architecture development including excellent documentation skills.
+Good understanding of Azure and AWS cloud service offering covering Compute, Storage, Network, WebApp, Functions, Gateway, Clustering, Key Vault, AD.
+Design and Develop high performance, scalable and secure cloud native applications on Microsoft Azure along with Azure best practices/recommendations.
+Design, implement and improve possible automations for cloud environments using native or 3rd party tools like Terraform, Salt, Chef, puppet, Databricks, etc.
+Creating business cases for transformation and modernization, including analysis of both total cost of ownership and potential cost and revenue impacts of the transformation
+Advise and engage with the customer executives on their Azure and AWS cloud strategy roadmap, improvements, alignment by bringing in industry best practice/trends and work on further improvements with required business case analysis and required presentations
+Providing Microsoft Azure architecture collaboration with other technical teams
+Documentation of solutions (e.g. architecture, configuration and setup).
+Working within a project management/agile delivery methodology in a leading role as part of a wider team.
+Provide effective knowledge transfer and upskilling to relevant customer personnel to ensure an appropriate level of future self-sufficiency.
+Assist in transition of projects to Enterprise Services teams.
+
+Skills Required:
+
+Strong knowledge of Cloud security standards and principles including Identity and Access management in Azure.
+essential to have strong, in-depth and demonstrable hands-on experience with the following technologies:
+Microsoft Azure and its relevant build, deployment, automation, networking and security technologies in cloud and hybrid environments.
+Azure stack hub , Azure stack HCI/Hyper-V clusters.
+Microsoft Azure IaaS , Platform As A Service ( PaaS ) products such as Azure SQL, AppServices, Logic Apps, Functions and other Serverless services
+Understanding of Microsoft Identity and Access Management products such including Azure AD or AD B2C
+Microsoft Azure Operational and Monitoring tools, including Azure Monitor, App Insights and Log Analytics
+Microsoft Windows server, System Centr, Hyper-V and storage spaces
+Knowledge of PowerShell, Git, ARM templates and deployment automation.
+Hands-on experience on Azure and AWS Cloud native automation framework to perform automation along with experience on Python, Azure services like Databricks, Data factory, Azure functions, Streamsets etc.
+Hands-on experience with IAC (Infrastructure as Code), Containers, Kubernetes (AKS), Ansible, Terraform, Docker, Linux Sys Admin (RHEL/Ubuntu/Alpine), Jenkins, building CI/CD pipelines in Azure Devops.
+Ability to define and design the technical architecture with best suited Azure components ensuring seamless end-end workflow from Data source to Power BI/Portal/Dashboards/UI.
+
+Skills Good to Have:
+
+Experience in building big data solutions using Azure and AWS services like analysis services, DevOps / Databases like SQL server, CosmosDB, Dynamo DB, Mongo DB and web service integration
+Possession of either the Developing Microsoft Azure Solutions and Architecting Microsoft Azure certifications.
+
+
+=============================================================================================
+
+PWC:
+
+
+Responsibilities
+
+ Design, build, and maintain robust CI/CD pipelines using Azure DevOps.
+ Collaborate with development, QA, and operations teams to ensure smooth software delivery and deployment.
+ Manage Azure services such as App Services, AKS, Azure Functions, Key Vault, and Application Insights.
+ Implement and manage monitoring, alerting, and logging tools.
+ Perform version control and branching strategies using Git.
+ Ensure security, compliance, and governance best practices across environments.
+ Troubleshoot and resolve infrastructure and pipeline issues quickly and efficiently.
+ Creating and configuring the Work Item hierarchy, Sprints in Boards. Configuring Dashboards, Wiki Pages.
+ Managing Test Plans and Test Suits.
+
+
+Required Skills
+
+ Hands-on experience in DevOps with a strong focus on Microsoft Azure.
+ Proficiency in Azure DevOps tools (Pipelines, Repos, Boards, Artifacts).
+ Familiarity with scripting languages such as PowerShell, Bash, or Python.
+ Knowledge of software development practices, especially in .NET or JavaScript-based environments.
+ Experience with containerization technologies like Docker, Jenkins.
+ Knowledge of Git, branching strategies, and version control best practices.
+ Understanding of networking, security, and cloud architecture fundamentals.
+ Managing and creating self-hosted agents.
+ Familiarity with automated testing tools and integration of test suites into CI/CD pipelines.
+ Pipeline securities and static code analysis using tools like SonarQube and Qualys.
+ Understanding of security best practices in DevOps workflows (e.g., secrets management, secure pipelines).
+ Hands-on experience with YAML-based pipeline configuration in Azure DevOps.
+ Exposure to configuration management tools such as Ansible, Chef.
+ Understanding MS Dynamics Customization, Configuration and Solution Deployment.
+ Understanding of PowerApps and Environment management.
+ Understanding of Agile/Scrum development processes.
+
+
+==================================================================================
+
+ob Title: Senior Cloud Engineer
+Location: [Hyderabad]
+Experience: 8–10 years in cloud engineering, multi cloud environments
+________________________________________
+Role Overview
+
+We seek an experienced Senior Cloud Engineer to design, implement, and maintain scalable, secure, and efficient cloud solutions. This role is pivotal to Enterprise Monitoring, CI/CD delivery pipeline, cost optimization, and cloud-native innovation.
+________________________________________
+Key Responsibilities
+
+• Design, deploy, and manage cloud infrastructure across AWS and Azure.
+• Implement Infrastructure as Code (Terraform or CloudFormation) for repeatable, version-controlled deployments
+• Build and support CI/CD pipelines in DevOps environments to streamline release workflows .
+• Drive cloud cost optimization, performance tuning, and resource rightsizing.
+• Implement robust security (IAM, encryption, network security, compliance standards like SOC 2, GDPR) .
+• Lead monitoring and observability efforts for proactive alerting and auto-healing.
+• Design DR and high availability/cloud resiliency solution.
+• Collaborate with cross-functional teams- Network, Database, Compute on architecture and migration projects.
+• Migrate On Prem existing Monitoring Tools Like Dynatrace, SiteScope, Splunk On Prem Infrastructure to Cloud Service Providers – AWS and Azure.
+________________________________________
+Required Qualifications
+
+• 8–10 years in cloud engineering with strong multi-cloud exposure.
+• Hands-on expertise in AWS and Azure
+• Proficiency with Terraform & CloudFormation
+• Solid Programming skills in Python and scripting skills in Bash, PowerShell.
+• Strong networking, Linux/Unix OS, storage, and database fundamentals.
+• Proven automation and CI/CD pipeline experience.
+• Skilled at cloud cost monitoring and optimization.
+• In-depth knowledge of security frameworks and regulatory compliance.
+• Excellent problem-solving and collaboration skills.
+• Bachelor’s degree in CS, Engineering, or equivalent, plus relevant cloud certifications is a must.
+________________________________________
+Preferred Experience
+
+• Experience executing large-scale cloud migrations (on-prem → cloud or multi-cloud).
+• Containerization (Docker, Kubernetes/EKS/AKS).
+• Serverless architectures (Lambda/Functions).
+• Infrastructure monitoring tools (CloudWatch, Azure Monitor, Prometheus, and Splunk).
+• Experience with disaster recovery and enterprise-level high availability.
+
+
+
+====================================================================================================================
+
+Pepsico
+
+
+
+
+===================================================================================================================
+
+Novartis:
+
+About the job
+Summary
+
+Responsible to lead and drive the engineering, delivery, and optimization of secure, scalable, and cost-effective Azure cloud Services/Products while building a culture of innovation and continuous improvement. The role ensures alignment of platform strategies with business objectives, leveraging AI and automation to streamline operations and simplify day-to-day Operational tasks. The role aims to enhance reliability, performance, and responsiveness across the platform and additionally, it focuses on empowering the team, mitigating risks, and driving productivity gains to deliver exceptional value to the organization.
+
+About The Role
+
+MAJOR ACCOUNTABILITIES:
+
+Lead and mentor a high-performing team of Azure Engineers to deliver best-in-class cloud solutions leveraging DevOps and Agile methodologies while fostering continuous professional growth, innovation, and alignment with Novartis objectives.
+Guide the team in designing and delivering Azure Cloud capabilities that are cost-efficient, user-friendly, secure, and compliant with Novartis Cloud Security and Compliance requirements, ensuring timely delivery and proper documentation of all solutions.
+Work closely with Azure Cloud Architects to continually enhance the platform's security, compliance, and governance processes. Drive improvements and ensure adherence to Novartis Cloud standards and requirements.
+Explore and implement AI-driven solutions to simplify and enhance day-to-day engineering and operational responsibilities, driving efficiency and scalability across the Azure Cloud Platform.
+Proactively collaborate with internal Cloud stakeholders to identify and implement necessary controls and guardrails on the Azure Cloud Platform, ensuring it remains secure, compliant, and audit-ready.
+Drive innovation by exploring, piloting, and implementing new solutions that simplify cloud deployments and improve customer experience. Build scalable and standardized solutions to enhance Azure operations.
+Ensure strong documentation practices for all solutions developed and implemented by the Azure Engineering team, ensuring that documentation is clear, comprehensive, and accessible for future reference across Novartis teams.
+Maintain and oversee compliance to Novartis Cloud Security, Governance, and Audit standards in all aspects of engineering work. Implement required processes, controls, and guardrails to ensure the Azure Cloud Platform is secure and audit-ready.
+Build and maintain a highly skilled and diverse Azure engineering team by driving the hiring process and encouraging an environment of continuous development.
+Participate in performance evaluations, provide constructive feedback, and assist in creating individualized development plans to promote career growth.
+Promote an inclusive, collaborative, and engaging work culture that prioritizes employee well-being, motivation, and alignment with Novartis Values & Behaviors.
+
+Additional Specifications Required For The Position
+
+Bachelor’s degree in Information Technology, Computer Science, or Engineering.
+MS-Azure Certification(s) ,DevOps & AI Certification(s).
+10+ years of experience working in IT infrastructure domain, delivering infrastructure and platform services across geographic and business boundaries.
+Minimum 5+ years experience working in MS-Azure Cloud Administration, IaC Implementations following Agile/DevOps methologies in large enterprises.
+Deep understanding of Cloud Networking,Landing Zone Concepts,Azure Policies,App Services,Microsoft Entra.
+Proficiency in Azure AI,Machine Learning and Cognitive Services.
+Experienced in DevOps practices and tools, including CI/CD pipelines, infrastructure as code (IaC), and monitoring solutions, with strong expertise in automating cloud infrastructure deployments using Azure DevOps, YAML, Terraform, and ARM templates.
+Good understanding of High Availability and Disaster Recovery concepts for infrastructure.
+Familiar with agile (i.e., scrum, Kanban.) methodologies and comfortable with working as part of an agile team
+Excellent skills in collaborating with business users, Operationalizing the delivered products, working closely with Security for implementing compliance, close interaction with Cloud operations team for provisioning Azure services.
+Good knowledge on implementing well defined & industry standard Change management process for platform & its products.Should ensure to have documentation for Platform products and implementations done.
+Ability to analyze and resolve complex infrastructure resource and application deployment issues.
+
+Key Performance Indicators / Measures Of Success
+
+Deliver a stable, secure, compliant, and cost-efficient platform engineering environment, ensuring high availability, performance, and reliability while driving year-over-year cost optimization.
+Enhance responsiveness and recovery speed in addressing critical business incidents and issues.
+Build learning agility by rapidly evaluating and implementing new services and capabilities at scale.
+Drive productivity improvements and reduce defects through ongoing process enhancements and continuous improvement initiatives.
+Enable automation-led, programmable infrastructure and platform services to streamline operations and increase efficiency.
+Establish a strong technical vision with a clear strategy and ensure consistent execution of plans.
+
+Languages
+
+Excellent written, presentation and verbal communication skills
+Languages: Fluent in English (written & spoken), additional languages a plus
+
+Competency Profile
+
+Technical Leadership
+Azure Cloud Platform Administration
+DevOps, CI/CD
+Agile Methodology
+System integration and Built
+Problem solving / Root Cause Analysis
+Cloud services monitoring & cost optimization
+
+
+
+===================================================================================================================================
+
+Platform Architect - Associate Director
+
+
+Overview
+
+An EDAP Solution Architect/Sr Manager plays a crucial role in designing and implementing cloud solutions based on Microsoft Azure. The role involves a blend of technical expertise in cloud infrastructure, architectural design, and leadership to guide teams and stakeholders through Azure deployments. Has to lead a small team of Engineers/Associate Architects.
+
+Responsibilities
+
+Design, develop, and implement Azure-based cloud solutions tailored to business requirements.
+Participate in architectural discussions and design solutions for complex cloud applications, ensuring optimal performance, scalability, and security.
+Lead a small team of Engineers/Architects.
+Oversee the migration of legacy systems to Azure, ensuring minimal downtime and seamless integration.
+Create architecture blueprints and documentation for stakeholders and development teams.
+Collaborate with development, operations, and security teams to ensure solutions meet non-functional requirements such as security, scalability, and performance.
+Ensure governance by implementing best practices and compliance policies, especially in industries with stringent regulatory requirements.
+Provide expert-level guidance on the adoption of Azure services such as IaaS, PaaS, serverless computing, containers, and microservices architecture.
+Engage with clients and internal stakeholders to identify business challenges and develop appropriate cloud solutions.
+Conduct performance tuning and optimization of Azure resources.
+Continuously evaluate new Azure services and stay updated with platform enhancements.
+Participate in R&D for exploring emerging cloud technologies to enhance architectural practices.
+
+Qualifications
+
+Bachelor's degree in Computer Science, Engineering, or a related field. Master's degree is a plus.
+16 + years of experience in the data and analytics platform
+10+ years of experience in designing and deploying cloud solutions with at least 7 years on the Azure platform.
+
+Technical Skills
+
+Expertise in Azure IaaS (Virtual Machines, Storage, Networking).
+Proficiency in PaaS (App Services, Azure SQL Database, Azure Kubernetes Service (AKS), and Azure Functions).
+Experience with Serverless architecture and microservices design.
+Strong understanding of Azure DevOps, CI/CD pipelines, and Infrastructure as Code (IaC) using tools like ARM templates, Terraform.
+Strong experience in designing cloud-native applications and implementing multi-tier, distributed cloud applications.
+Familiarity with cloud design patterns (event-driven, microservices, etc.).
+Knowledge of API management, load balancing, and traffic distribution in Azure.
+Understanding of Azure security best practices, including identity management (Azure AD), encryption, security policies, and role-based access control (RBAC).
+Experience in designing secure cloud architectures for highly sensitive data environments.
+Knowledge of Azure Virtual Network, VPNs, ExpressRoute, DNS, Azure Firewall, and Application Gateway.
+Proficiency in designing network architectures that support high availability, disaster recovery, and hybrid cloud models.
+Experience with Azure SQL, Cosmos DB, Data Lakes, Azure Databricks and Azure Storage.
+Knowledge of data replication, disaster recovery, and backup solutions in the cloud.
+Understanding of real-time data processing using Azure services like Event Hubs, Azure Data Factory, and Stream Analytics.
+Hands-on experience with PowerShell, Azure CLI, and automation frameworks.
+Ability to script and automate cloud infrastructure tasks.
+Expertise in using Azure Monitor, Application Insights, and Log Analytics for performance monitoring and troubleshooting.
+Knowledge of APM (Application Performance Management) tools and practices.
+Proficiency in Docker, Kubernetes (AKS), and container orchestration in Azure.
+Experience with deploying containerized applications using Azure Container Registry (ACR).
+Familiarity with other cloud platforms (AWS, GCP) is a plus.
