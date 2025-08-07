@@ -1,0 +1,70 @@
+Kube Responibilities ---
+
+Key responsibilities:
+
+
+Develop a fully-featured Kubernetes platform built around industry standards to improve developer experiences and enable self-service capabilities
+Work closely with internal application teams to improve their Kubernetes onboarding experience
+Work with app teams to understand their potential challenges and help them choose the best way to architect their systems on Kubernetes
+Design and implement new platform features to meet business and internal team goals
+Monitor and maintain the performance and reliability of the existing Kubernetes platform clusters, and identify and troubleshoot any issues that may arise
+Closely follow trends in the Kubernetes community and take advantage of new technologies as they emerge
+Work with the customers, and stakeholders to understand their needs and build the right products and solutions
+Take an active part in the strategy and roadmap definition and prioritization
+Seek, give, and receive feedback in a constructive manner, including but not limited to code reviews
+Engage in engineering on-call escalated support of services owned by the team
+
+
+Knowledge, Skills, and Abilities:
+
+
+7+ years of proven experience with high-quality infrastructure solutions in a collaborative environment including coding standards, code reviews, source control management, build processes, testing, and operations experience
+3+ years of experience building infrastructure solutions in at least one major cloud provider (AWS, Azure, or GCP)
+Expert proficiency in Kubernetes. Experience in building and running software systems on Kubernetes clusters in production
+Expert proficiency in Kubernetes architecture and operations including resource management scheduling, auto-scaling and cluster networking
+Hands-on experience with infrastructure provisioning and configuration using Infrastructure as Code (IaC) principles
+Hands-on experience in developing wide variety of software and automation scripts with Python/Golang
+Experience designing and operating diverse CI/CD pipelines with Harness.io or similar platforms such as Github Actions, Gitlab CI, JenkinsX or ArgoCD
+You have a deep understanding of core computer science — including operating systems, distributed systems, networking, and concurrent programming
+You have experience and insight into designing, implementing, and supporting highly scalable cloud services from the ground up
+You have an aptitude to deal with ambiguity, and enthusiasm to help tackle difficult issues
+You can work effectively asynchronously and face-to-face in a multicultural team in multiple timezones around the world
+You have excellent critical thinking skills and can objectively evaluate multiple solutions with different tradeoffs
+
+=================================================
+
+
+Qualifications:
+
+Experience:
+
+8+ years of overall experience in cloud platform engineering, infrastructure management, and enterprise-scale operations.
+5+ years of hands-on experience with Google Cloud Platform (GCP), including designing, deploying, and managing cloud infrastructure and services.
+5+ years of experience specifically with Google Kubernetes Engine (GKE), managing large-scale, production-grade clusters in enterprise environments.
+Experience with deploying, scaling, and maintaining GKE clusters in production environments.
+Hands-on experience with CI/CD practices and automation tools like GitHub Actions.
+Proven track record of building and managing GKE platforms in a fast-paced, dynamic environment.
+Experience developing custom Kubernetes operators and controllers for managing complex workloads.
+Deep Troubleshooting Knowledge: Strong ability to troubleshoot complex platform issues, with expertise in diagnosing problems across the entire GKE stack.
+
+
+Technical Skills:
+
+Must Have:
+
+Google Cloud Platform (GCP): Extensive hands-on experience with GCP, particularly Kubernetes Engine (GKE), Cloud Storage, Cloud Pub/Sub, Cloud Logging, and Cloud Monitoring.
+Kubernetes (GKE) at Scale: Expertise in managing large-scale GKE clusters, including security configurations, networking, and workload management.
+CI/CD Automation: Strong experience with CI/CD pipeline automation tools, particularly GitHub Actions, for building, testing, and deploying applications.
+Kubernetes Operators & Controllers: Ability to develop custom Kubernetes operators and controllers to automate and manage applications on GKE.
+Workload Identity & Security: Solid understanding of Kubernetes workload identity and access management (IAM) best practices, including integration with GCP Identity and Google Cloud IAM.
+Anthos & ACM: Hands-on experience with Anthos Config Management (ACM) and Kubernetes Cluster Config (KCC) to manage and govern GKE clusters and workloads at scale.
+Infrastructure as Code (IaC): Experience with tools like Terraform to manage GKE infrastructure and cloud resources.
+Helm & Kustomize: Experience in using Helm and Kustomize for packaging, deploying, and managing Kubernetes resources efficiently. Ability to create reusable and scalable Kubernetes deployment templates.
+Observability & Logging Tools: Experience with observability tools such as Prometheus, Dynatrace, and Splunk to monitor and log GKE performance, providing developers with actionable insights for troubleshooting.
+
+
+Nice to Have:
+
+Zero Trust Security Model: Strong understanding of implementing and maintaining security in a Zero Trust model for GKE, including workload authentication, identity management, and network security.
+Ingress Patterns: Experience with designing and managing multi-cluster and multi-regional ingress in Kubernetes to ensure fault tolerance, traffic management, and high availability.
+Familiarity with Open Policy Agent (OPA) for policy enforcement in Kubernetes environments.
